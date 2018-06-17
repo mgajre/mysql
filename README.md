@@ -1,6 +1,6 @@
 # MySQL sample queries and syntax
 
-# select 
+# select database
 
 use database;
 
